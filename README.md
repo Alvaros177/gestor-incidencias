@@ -24,7 +24,7 @@ Permite gestionar varios contenedores desde un único archivo y facilita iniciar
 
 Para separar las comunicaciones entre los servicios y mejorar la organización y seguridad de la aplicación.
 
-### 7. ¿Por qué el backend utiliza `db` para conectarse a PostgreSQL?
+### 7. ¿Por qué el backend utiliza db para conectarse a PostgreSQL?
 
 Porque Docker Compose permite utilizar el nombre del servicio como nombre de host dentro de la red.
 
